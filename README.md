@@ -13,7 +13,7 @@ Sistema de Gerenciamento de Formula 1 desenvolvido em Java para demonstrar padro
 
 ## Video de Apresentacao
 
-> **Importante:** Substitua `SEU_LINK_DO_YOUTUBE_AQUI` pelo link real do video apos fazer o upload.
+>`https://drive.google.com/file/d/1cL-ZPOuRskGgcLSyyJWrIqw1vMjskzOD/view?usp=sharing`.
 
 ---
 
